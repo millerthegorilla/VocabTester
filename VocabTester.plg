@@ -1,0 +1,122 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: VocabTester - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x809 /fo"Debug/VocabTester.res" /i "Resources" /d "_DEBUG" "D:\Projects\VocabTester\Resources\VocabTester.rc"" 
+Creating temporary file "C:\WINDOWS\TEMP\RSP3B5.TMP" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/VocabTester.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Projects\VocabTester\Library\Bitmap.cpp"
+"D:\Projects\VocabTester\Library\ChooseColor.cpp"
+"D:\Projects\VocabTester\Library\CmdLine.cpp"
+"D:\Projects\VocabTester\Library\ComboBox.cpp"
+"D:\Projects\VocabTester\Library\Controller.cpp"
+"D:\Projects\VocabTester\Library\Dialog.cpp"
+"D:\Projects\VocabTester\Library\DragDrop.cpp"
+"D:\Projects\VocabTester\Library\Edit.cpp"
+"D:\Projects\VocabTester\Library\FolderTree.cpp"
+"D:\Projects\VocabTester\Library\FolderWatcher.cpp"
+"D:\Projects\VocabTester\Library\ListBox.cpp"
+"D:\Projects\VocabTester\Library\ListView.cpp"
+"D:\Projects\VocabTester\Library\Mailslot.cpp"
+"D:\Projects\VocabTester\Library\MsgLoop.cpp"
+"D:\Projects\VocabTester\Library\NotifyHandler.cpp"
+"D:\Projects\VocabTester\Library\Procedure.cpp"
+"D:\Projects\VocabTester\Library\Rebar.cpp"
+"D:\Projects\VocabTester\Library\Splitter.cpp"
+"D:\Projects\VocabTester\Library\Status.cpp"
+"D:\Projects\VocabTester\Library\ToolBar.cpp"
+"D:\Projects\VocabTester\Library\Tools.cpp"
+"D:\Projects\VocabTester\Library\ToolTip.cpp"
+"D:\Projects\VocabTester\Library\TreeView.cpp"
+"D:\Projects\VocabTester\Library\WaveIn.cpp"
+"D:\Projects\VocabTester\Library\WaveOut.cpp"
+"D:\Projects\VocabTester\Library\WinString.cpp"
+"D:\Projects\VocabTester\Library\XWin.cpp"
+"D:\Projects\VocabTester\Application\control.cpp"
+"D:\Projects\VocabTester\Application\main.cpp"
+"D:\Projects\VocabTester\Application\SplitBar.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSP3B5.TMP" 
+Creating temporary file "C:\WINDOWS\TEMP\RSP03B6.TMP" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib comctl32.lib winmm.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/VocabTester.pdb" /debug /machine:I386 /out:"Debug/VocabTester.exe" /pdbtype:sept 
+.\Debug\Bitmap.obj
+.\Debug\ChooseColor.obj
+.\Debug\CmdLine.obj
+.\Debug\ComboBox.obj
+.\Debug\Controller.obj
+.\Debug\Dialog.obj
+.\Debug\DragDrop.obj
+.\Debug\Edit.obj
+.\Debug\FolderTree.obj
+.\Debug\FolderWatcher.obj
+.\Debug\ListBox.obj
+.\Debug\ListView.obj
+.\Debug\Mailslot.obj
+.\Debug\MsgLoop.obj
+.\Debug\NotifyHandler.obj
+.\Debug\Procedure.obj
+.\Debug\Rebar.obj
+.\Debug\Splitter.obj
+.\Debug\Status.obj
+.\Debug\ToolBar.obj
+.\Debug\Tools.obj
+.\Debug\ToolTip.obj
+.\Debug\TreeView.obj
+.\Debug\WaveIn.obj
+.\Debug\WaveOut.obj
+.\Debug\WinString.obj
+.\Debug\XWin.obj
+.\Debug\control.obj
+.\Debug\main.obj
+.\Debug\VocabTester.res
+.\Debug\SplitBar.obj
+]
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSP03B6.TMP"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+Bitmap.cpp
+ChooseColor.cpp
+CmdLine.cpp
+ComboBox.cpp
+Controller.cpp
+Dialog.cpp
+DragDrop.cpp
+Edit.cpp
+FolderTree.cpp
+FolderWatcher.cpp
+ListBox.cpp
+ListView.cpp
+Mailslot.cpp
+MsgLoop.cpp
+NotifyHandler.cpp
+Procedure.cpp
+Rebar.cpp
+Splitter.cpp
+Status.cpp
+ToolBar.cpp
+Tools.cpp
+ToolTip.cpp
+TreeView.cpp
+WaveIn.cpp
+WaveOut.cpp
+WinString.cpp
+XWin.cpp
+control.cpp
+main.cpp
+SplitBar.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+VocabTester.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

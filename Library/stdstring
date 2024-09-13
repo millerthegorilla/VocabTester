@@ -1,0 +1,12 @@
+#include <string>
+#include <sstream>
+
+#ifdef UNICODE
+typedef std::wstring stdstring;
+typedef std::wostringstream stdostringstream;
+typedef std::wistringstream stdistringstream;
+#else
+typedef std::string stdstring;
+typedef std::ostringstream stdostringstream;
+typedef std::istringstream stdistringstream;
+#endif
