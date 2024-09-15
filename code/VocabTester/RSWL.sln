@@ -1,0 +1,59 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RSWL", "RSWL.vcproj", "{1A03B0D3-2428-4DC3-9C12-AB1ACCB1CFC7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VocabTester", "VocabTester\VocabTester.vcproj", "{9585FA4F-C9B7-4639-B4F7-E6C52B1C18F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest", "..\..\..\..\..\..\Library\UnitTest\UnitTest.vcproj", "{C61F8D27-EB70-4106-A770-246D473327AA}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccProjectName0 = RswlTest
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Reliable\u0020Software\u0020Code\u0020Co-op
+		CanCheckoutShared = true
+		SolutionUniqueID = {2FF91372-3BB2-4CFD-BB32-E1394D0379F0}
+		SccProjectUniqueName1 = RSWL.vcproj
+		SccLocalPath1 = .
+		CanCheckoutShared = true
+		SccProjectUniqueName2 = VocabTester\\VocabTester.vcproj
+		SccLocalPath2 = .
+		CanCheckoutShared = true
+		SccProjectFilePathRelativizedFromConnection2 = VocabTester\\
+		SccProjectUniqueName3 = ..\\..\\..\\..\\..\\..\\Library\\UnitTest\\UnitTest.vcproj
+		SccLocalPath3 = ..\\..\\..\\..\\..\\..\\Library
+		CanCheckoutShared = true
+		SccProjectFilePathRelativizedFromConnection3 = UnitTest\\
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Beta
+		ConfigName.1 = Debug
+		ConfigName.2 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1A03B0D3-2428-4DC3-9C12-AB1ACCB1CFC7}.Beta.ActiveCfg = Beta|Win32
+		{1A03B0D3-2428-4DC3-9C12-AB1ACCB1CFC7}.Beta.Build.0 = Beta|Win32
+		{1A03B0D3-2428-4DC3-9C12-AB1ACCB1CFC7}.Debug.ActiveCfg = Debug|Win32
+		{1A03B0D3-2428-4DC3-9C12-AB1ACCB1CFC7}.Debug.Build.0 = Debug|Win32
+		{1A03B0D3-2428-4DC3-9C12-AB1ACCB1CFC7}.Release.ActiveCfg = Release|Win32
+		{1A03B0D3-2428-4DC3-9C12-AB1ACCB1CFC7}.Release.Build.0 = Release|Win32
+		{9585FA4F-C9B7-4639-B4F7-E6C52B1C18F1}.Beta.ActiveCfg = Release|Win32
+		{9585FA4F-C9B7-4639-B4F7-E6C52B1C18F1}.Beta.Build.0 = Release|Win32
+		{9585FA4F-C9B7-4639-B4F7-E6C52B1C18F1}.Debug.ActiveCfg = Debug|Win32
+		{9585FA4F-C9B7-4639-B4F7-E6C52B1C18F1}.Debug.Build.0 = Debug|Win32
+		{9585FA4F-C9B7-4639-B4F7-E6C52B1C18F1}.Release.ActiveCfg = Release|Win32
+		{9585FA4F-C9B7-4639-B4F7-E6C52B1C18F1}.Release.Build.0 = Release|Win32
+		{C61F8D27-EB70-4106-A770-246D473327AA}.Beta.ActiveCfg = Release|Win32
+		{C61F8D27-EB70-4106-A770-246D473327AA}.Beta.Build.0 = Release|Win32
+		{C61F8D27-EB70-4106-A770-246D473327AA}.Debug.ActiveCfg = Debug|Win32
+		{C61F8D27-EB70-4106-A770-246D473327AA}.Debug.Build.0 = Debug|Win32
+		{C61F8D27-EB70-4106-A770-246D473327AA}.Release.ActiveCfg = Release|Win32
+		{C61F8D27-EB70-4106-A770-246D473327AA}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

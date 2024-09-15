@@ -8,6 +8,8 @@ From memory Vocabtester has a variety of different tools, including a wordsearch
 
 The project was written using visual C++ 6.0, and so I doubt I will get around to compiling it any time soon to find out precisely what is in it...
 
+The final code (I think) is in the code directory.  It uses the RSWL - the reliable software library - which furnished me with such luxuries as an autopointer, a pointer class with memory management built in to it...  from memory, at least...
+
 As with all my code, it is presented here with an MIT license.
 
 From the original readme (.doc file)
